@@ -3,8 +3,24 @@
 Auto translate, detect language.
 API offers text translation function for more than 20 language pairs.
 
-Uses Yandex API http://api.yandex.ru/translate/
-Terms of use http://legal.yandex.ru/translate_api/
+Uses Yandex API http://api.yandex.ru/translate/ .
+Terms of use http://legal.yandex.ru/translate_api/ .
+
+Current version can:
+<ul>
+  <li>Translate text and html</li>
+  <li>Detect text and html language</li>
+  <li>Translated languages list</li>
+  <li>Translate direction list</li>
+  <li>Cached requests to API</li>
+</ul>
+<br>
+Planned add:
+<ul>
+  <li>Translate i18n/messages files</li>
+  <li>Update and expand caching</li>
+  <li>Support others translation services</li>
+</ul>
 
 ### Setup:
 
