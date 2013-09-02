@@ -14,7 +14,6 @@ Current version can:
   <li>Translate direction list</li>
   <li>Cached requests to API</li>
 </ul>
-<br>
 Planned add:
 <ul>
   <li>Translate i18n/messages files</li>
